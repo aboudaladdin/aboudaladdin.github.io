@@ -1,7 +1,18 @@
 ---
-title: About
+title: Home
 ---
-Hello There!
+Welcome! 👋
+
+I am currently learning more about natural language processing, and planning to focus on question-answering and information retrieval 🌱.
+
+Places to visit : 
+- [[About]] 
+- Portfolio
+- [[_files/resume.pdf|Resume]]
+- [[Contact]]
 
 
-![[images/aboud_alien_insects_journal_article_d6d5c9fa-53b1-44d7-aa27-db341099db41.png]]
+
+
+
+
