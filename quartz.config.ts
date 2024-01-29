@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "A.Aladdin",
+    pageTitle: "Home",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -14,8 +14,8 @@ const config: QuartzConfig = {
     defaultDateType: "modified",
     theme: {
       typography: {
-        header: "Myriad Pro",
-        body: "Bricolage Grotesque",
+        header: "Noto Sans Display",
+        body: "Noto Sans",
         code: "Monocraft",
       },
       colors: {
@@ -30,13 +30,13 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          light: "#323236",
-          lightgray: "#4d4d4d",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
+          light: "#2b2b2b",
+          lightgray: "#4e4e4e",
+          gray: "#afb0c0",
+          darkgray: "#cfd7e4",
+          dark: "#fcfcff",
           secondary: "#5fc5f5",
-          tertiary: "#60e7ee",
+          tertiary: "#92ddeb",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
       },
