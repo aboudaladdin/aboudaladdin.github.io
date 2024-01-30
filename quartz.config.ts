@@ -6,9 +6,8 @@ const config: QuartzConfig = {
     pageTitle: "A.Aladdin",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: 
+    { provider: 'google', tagId: "G-TC2BBRD6YQ" },
     baseUrl: "aboudaladdin.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
