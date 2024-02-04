@@ -4,6 +4,8 @@ longform:
   title: Portfolio
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - Sentiment Analysis Project
+  sceneTemplate: templates/Note.md
   ignoredFiles: []
 ---
