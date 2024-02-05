@@ -10,7 +10,7 @@ title: Aboud Aladdin
 💡 My goal is to share my learning journey and reflect on my progress.  
 
 **Places to visit :**
-- [[Portfolio/Index|Portfolio]] (WIP)
+- [[Portfolio|Portfolio]] (WIP)
 - [[Blog/Index|Blog]]  (WIP)
 - [[_files/resume.pdf|Resume]]
 - [[Contact]]
