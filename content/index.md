@@ -3,18 +3,19 @@ title: Aboud Aladdin
 ---
 ![[150x150 circle.png]]
 
-✨ Welcome to my digital space!  
+✨ Welcome to my digital space!
 
-🌱 I am gradually deepening my understanding of machine learning, taking it one step at a time. 
+Here, you'll find insights into my projects, skills, and journey in the fields of machine learning, embedded systems development, and 3D graphics programming. I'm continuously expanding my knowledge, and I’m excited to share my learning journey and discoveries along the way.
 
-💡 My goal is to share my learning journey and reflect on my progress.  
+💡 Feel free to explore my work, read my thoughts, and connect with me!
 
-**Places to visit :**
-- [[Overview|Portfolio]] (WIP)
-- ~~[[Blog/Index|Blog]]~~  (WIP)
+**Navigation :**
+- [[About]] 
+- [[Overview|Portfolio]]
 - [[_files/resume.pdf|Resume]]
 - [[Contact]]
-- [[About]] 
+- ~~[[Blog/Index|Blog]]~~  (WIP)
+
 
 
 
