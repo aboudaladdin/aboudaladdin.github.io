@@ -22,7 +22,9 @@ In my free time, I enjoy playing chess, building small electronic projects, and 
 
 💡 My goal is to share my learning journey, reflect on my progress, and ultimately contribute to the scientific body of knowledge.
 ### Random Facts
+- I am a MSc candidate of Medical Physics.
 - I hold a BSc in nuclear and radiation engineering.
+- I love making unfinished games.
 - I have spent a significant amount of time playing chess.
 - I built my own transistor radio as a kid.
 - I love working with electronics and constructing small systems.
